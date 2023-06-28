@@ -1,0 +1,15 @@
+C:\Users\duygu\C#-Course\Csharp-Projeler\operators\bin\Debug\net7.0\operators.exe
+C:\Users\duygu\C#-Course\Csharp-Projeler\operators\bin\Debug\net7.0\operators.deps.json
+C:\Users\duygu\C#-Course\Csharp-Projeler\operators\bin\Debug\net7.0\operators.runtimeconfig.json
+C:\Users\duygu\C#-Course\Csharp-Projeler\operators\bin\Debug\net7.0\operators.dll
+C:\Users\duygu\C#-Course\Csharp-Projeler\operators\bin\Debug\net7.0\operators.pdb
+C:\Users\duygu\C#-Course\Csharp-Projeler\operators\obj\Debug\net7.0\operators.csproj.AssemblyReference.cache
+C:\Users\duygu\C#-Course\Csharp-Projeler\operators\obj\Debug\net7.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duygu\C#-Course\Csharp-Projeler\operators\obj\Debug\net7.0\operators.AssemblyInfoInputs.cache
+C:\Users\duygu\C#-Course\Csharp-Projeler\operators\obj\Debug\net7.0\operators.AssemblyInfo.cs
+C:\Users\duygu\C#-Course\Csharp-Projeler\operators\obj\Debug\net7.0\operators.csproj.CoreCompileInputs.cache
+C:\Users\duygu\C#-Course\Csharp-Projeler\operators\obj\Debug\net7.0\operators.dll
+C:\Users\duygu\C#-Course\Csharp-Projeler\operators\obj\Debug\net7.0\refint\operators.dll
+C:\Users\duygu\C#-Course\Csharp-Projeler\operators\obj\Debug\net7.0\operators.pdb
+C:\Users\duygu\C#-Course\Csharp-Projeler\operators\obj\Debug\net7.0\operators.genruntimeconfig.cache
+C:\Users\duygu\C#-Course\Csharp-Projeler\operators\obj\Debug\net7.0\ref\operators.dll
