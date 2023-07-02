@@ -1,0 +1,15 @@
+C:\Users\duygu\C#-Course\Csharp-Projeler\exception-handling\obj\Debug\net7.0\exception-handling.csproj.AssemblyReference.cache
+C:\Users\duygu\C#-Course\Csharp-Projeler\exception-handling\obj\Debug\net7.0\exception-handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duygu\C#-Course\Csharp-Projeler\exception-handling\obj\Debug\net7.0\exception-handling.AssemblyInfoInputs.cache
+C:\Users\duygu\C#-Course\Csharp-Projeler\exception-handling\obj\Debug\net7.0\exception-handling.AssemblyInfo.cs
+C:\Users\duygu\C#-Course\Csharp-Projeler\exception-handling\obj\Debug\net7.0\exception-handling.csproj.CoreCompileInputs.cache
+C:\Users\duygu\C#-Course\Csharp-Projeler\exception-handling\bin\Debug\net7.0\exception-handling.exe
+C:\Users\duygu\C#-Course\Csharp-Projeler\exception-handling\bin\Debug\net7.0\exception-handling.deps.json
+C:\Users\duygu\C#-Course\Csharp-Projeler\exception-handling\bin\Debug\net7.0\exception-handling.runtimeconfig.json
+C:\Users\duygu\C#-Course\Csharp-Projeler\exception-handling\bin\Debug\net7.0\exception-handling.dll
+C:\Users\duygu\C#-Course\Csharp-Projeler\exception-handling\bin\Debug\net7.0\exception-handling.pdb
+C:\Users\duygu\C#-Course\Csharp-Projeler\exception-handling\obj\Debug\net7.0\exception-handling.dll
+C:\Users\duygu\C#-Course\Csharp-Projeler\exception-handling\obj\Debug\net7.0\refint\exception-handling.dll
+C:\Users\duygu\C#-Course\Csharp-Projeler\exception-handling\obj\Debug\net7.0\exception-handling.pdb
+C:\Users\duygu\C#-Course\Csharp-Projeler\exception-handling\obj\Debug\net7.0\exception-handling.genruntimeconfig.cache
+C:\Users\duygu\C#-Course\Csharp-Projeler\exception-handling\obj\Debug\net7.0\ref\exception-handling.dll
