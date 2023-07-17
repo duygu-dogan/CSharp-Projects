@@ -41,5 +41,47 @@ class Program
 
         Console.WriteLine("Ortalama :" + Toplam/diziUzunlugu);
 
+        //Array sınıfı ve metodları
+
+        //Sort: Sıralama
+
+        int[] sayiDizisi = {23,12,4,86,72,3,11,17};
+
+        Console.WriteLine("*** sırasız dizi***");
+        foreach (var sayi in sayiDizisi)
+            Console.WriteLine(sayi);
+
+        Console.WriteLine("***sıralı dizi***");
+        Array.Sort(sayiDizisi);
+        foreach (var sayi in sayiDizisi)
+            Console.WriteLine(sayi);
+
+        //Clear: Dizideki verilen indexten itibaren verilen sayıdaki elemanın değerini sıfırlıyor
+        Console.WriteLine("***Array Clear***");
+        Array.Clear(sayiDizisi,2,2);
+
+        foreach (var sayi in sayiDizisi)
+            Console.WriteLine(sayi);
+
+        //Reverse: Diziyi ortadan itibaren aynalama şeklinde tersine çevirme 
+        Console.WriteLine("***Array Reverse***");
+        Array.Reverse(sayiDizisi);
+        
+        foreach (var sayi in sayiDizisi)
+            Console.WriteLine(sayi);
+
+        //IndexOf: Dizideki elemanın (varsa) indexini döner
+        Console.WriteLine("***IndexOf***");
+        
+        Console.WriteLine(Array.IndexOf(sayiDizisi, 23));
+
+        //Resize
+        Console.WriteLine("***Resize***");
+
+        Array.Resize<int>(ref sayiDizisi, 9);
+        sayiDizisi[8] = 99;
+
+        foreach (var sayi in sayiDizisi)
+            Console.WriteLine(sayi);
     }
 }
