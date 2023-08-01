@@ -1,0 +1,15 @@
+C:\Users\duygu\C#-Course\Csharp-Projeler\methods\obj\Debug\net7.0\methods.csproj.AssemblyReference.cache
+C:\Users\duygu\C#-Course\Csharp-Projeler\methods\obj\Debug\net7.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duygu\C#-Course\Csharp-Projeler\methods\obj\Debug\net7.0\methods.AssemblyInfoInputs.cache
+C:\Users\duygu\C#-Course\Csharp-Projeler\methods\obj\Debug\net7.0\methods.AssemblyInfo.cs
+C:\Users\duygu\C#-Course\Csharp-Projeler\methods\obj\Debug\net7.0\methods.csproj.CoreCompileInputs.cache
+C:\Users\duygu\C#-Course\Csharp-Projeler\methods\bin\Debug\net7.0\methods.exe
+C:\Users\duygu\C#-Course\Csharp-Projeler\methods\bin\Debug\net7.0\methods.deps.json
+C:\Users\duygu\C#-Course\Csharp-Projeler\methods\bin\Debug\net7.0\methods.runtimeconfig.json
+C:\Users\duygu\C#-Course\Csharp-Projeler\methods\bin\Debug\net7.0\methods.dll
+C:\Users\duygu\C#-Course\Csharp-Projeler\methods\bin\Debug\net7.0\methods.pdb
+C:\Users\duygu\C#-Course\Csharp-Projeler\methods\obj\Debug\net7.0\methods.dll
+C:\Users\duygu\C#-Course\Csharp-Projeler\methods\obj\Debug\net7.0\refint\methods.dll
+C:\Users\duygu\C#-Course\Csharp-Projeler\methods\obj\Debug\net7.0\methods.pdb
+C:\Users\duygu\C#-Course\Csharp-Projeler\methods\obj\Debug\net7.0\methods.genruntimeconfig.cache
+C:\Users\duygu\C#-Course\Csharp-Projeler\methods\obj\Debug\net7.0\ref\methods.dll
