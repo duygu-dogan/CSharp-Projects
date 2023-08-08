@@ -1,199 +1,106 @@
-﻿namespace methods;
+﻿namespace degisken;
 
-/*class Program
+class Program
 {
     static void Main(string[] args)
     {
-       /erisim_belirteci geri_donustipi  metot_adi(parametreListesi/arguman)
-       //{
+        /*//define variables and print them to the terminal
+        byte b = 5;     //1 byte, 0-255
+        sbyte c = 5;    //1 byte, -128 ile 127 
 
-            //komutlar;
-            //return;
+        short s = 5;    //2 byte, -32768 ile +32767 
+        ushort us = 5;  //2 byte, 0-65365 
 
-       //}
+        Int16 i16 = 2;  //2 byte
+        int i = 2;      //2 byte
+        Int32 i32 = 2;  //4 byte
+        Int64 i64 = 2;  //8 byte 
 
-       int a =2;
-       int b =3;
+        uint ui = 2;    //4 byte
+        long l = 4;     //8 byte
+        ulong ul = 4;   //8 byte
 
-       Console.WriteLine(a+b);
+        // Real numbers
+        float f = 5;    //4 byte 
+        double d = 5;   //8 byte / "
+        decimal de = 5; //16 byte / "
 
-        int sonuc = Topla(a,b);
-        Console.WriteLine(sonuc);
+        char[] ch = {'w', 'o', 'r', 'd'};
+         //2 byte
+         string k = new string(ch);
+        Console.WriteLine(k);
+        
 
-        Metotlar ornek = new Metotlar();
-        ornek.EkranaYazdir(Convert.ToString(sonuc));
+       string str = "Duygu"; //limitless 
 
-        int sonuc2 = ornek.ArttirVeTopla(ref a, ref b);
-        ornek.EkranaYazdir(Convert.ToString(sonuc2));
-        ornek.EkranaYazdir(Convert.ToString(a+b));
+        //boolean expressions
+        bool b1 = true;
+        bool b2 = false;
 
+        bool bool1 = 10<2; //false
+        bool bool2 = 5>2;  //true
+
+        //using DateTime
+        DateTime dt = DateTime.Now;
+        Console.WriteLine(dt);
+
+        string datetime = DateTime.Now.ToShortDateString();
+        Console.WriteLine(datetime);
+
+        string datetime2 = DateTime.Now.ToLongDateString();
+        Console.WriteLine(datetime2);
+
+        //hour
+        string hour = DateTime.Now.ToString("HH:mm");
+        Console.WriteLine(hour);
+
+        //Object
+        object o1 = "x";
+        object o2 = 'y';
+        object o3 = 4;
+        object o4 = 4.3;
+
+        // String expressions
+        string str1 = string.Empty;
+        str1 = "Duygu Dogan";
+        string name = "Duygu";
+        string surname = "Dogan";
+        string fullName = name + " " + surname;
+
+        // integer definitions
+        int integer1 = 5;
+        int integer2 = 3;
+        int integer3 = integer1 * integer2;
+        
+        // varible conversions
+        string str20 = "10";
+        int int20 = 20;
+
+        string newVar = str20 + int20.ToString();
+        Console.WriteLine(newVar); //output: 2020
+
+        int int21 = int20 + Convert.ToInt32(str20);
+        Console.WriteLine(int21); //output: 40
+
+        //Parse is often used for conversion from string
+        int int22 = int20 + int.Parse(str20); // output: 40
+        Console.WriteLine(int22.ToString());
+        */
+
+        //string satirDegeri = Console.ReadLine();
+        
+        
+        String inputString = "Welcome to 30 Days of Code"; 
+        
+        // Read a full line of input from stdin (cin) and save it to our variable, input_string.
+        inputString = Console.ReadLine(); 
+        
+        // Print a string literal saying "Hello, World." to stdout using cout.
+        Console.WriteLine("Hello, World.");
+        
+        // TODO: Write a line of code here that prints the contents of input_string to stdout.
+        Console.WriteLine(inputString);
+        Console.ReadLine();
+        
     }
-    static int Topla(int deger1, int deger2)
-        {
-            return(deger1+deger2);
-        }
-    
-}
-
-class Metotlar
-{
-    public void EkranaYazdir(string veri)
-    {
-        Console.WriteLine(veri);
-    }
-
-    public int ArttirVeTopla(ref int deger1,ref int deger2)
-    {
-        deger1+=1;
-        deger2+=1;
-        return deger1+deger2;
-    }
-}
-
-class Methods
-{
-    static void Main(string[] arg)
-    {
-        //out parametreler
-        string sayi = "999";
-
-        bool sonuc = int.TryParse(sayi, out int outSayi); //int dışarıda tanımlanıp sadece "out outSayi" şeklinde de yazılabilir.
-        if (sonuc)
-        {
-            Console.WriteLine("Başarılı!");
-            Console.WriteLine(outSayi);
-        }
-        else
-        {
-            Console.WriteLine("Başarısız!");
-        }
-        OutPar instance = new OutPar();
-        instance.Topla(4, 5, out int toplamSonucu);
-        Console.WriteLine(toplamSonucu);
-
-        //Method Overloading
-
-        int exp = 999;
-        instance.EkranaYazdir(Convert.ToString(exp));
-        instance.EkranaYazdir(exp);
-        instance.EkranaYazdir("Duygu","Doğan");
-
-        // Metot imzası: metotAdı + parametre sayısı + parametre
-    }
-}
-
-class OutPar
-{
-    public void Topla(int a, int b, out int toplam)
-    {
-        toplam= a+b;
-    }
-
-    public void EkranaYazdir(string veri)
-    {
-        Console.WriteLine(veri);
-    }
-
-        public void EkranaYazdir(int veri)
-    {
-        Console.WriteLine(veri);
-    }
-     public void EkranaYazdir(string veri1, string veri2)
-    {
-        Console.WriteLine(veri1 + veri2);
-    }
-    
-}*/
-
-public class Program
-	{
-		static void Main(string[] args)
-		{
-			//Rekürsif - Öz Yinelemeli 
-
-			int result = 1;
-			for (int i = 0; i < 5; i++)
-			{
-				result = result * 3;
-				Console.WriteLine(result);
-
-				Islemler islemler = new Islemler();
-				Console.WriteLine(islemler.Expo(3, 4));
-
-				//Extension Metotlar
-				string ifade = "Duygu Dogan";
-				bool sonuc = ifade.CheckSpaces();
-				Console.WriteLine(sonuc);
-
-				if (sonuc)				
-					Console.WriteLine(ifade.RemoveWhiteSpaces());
-					Console.WriteLine(ifade.MakeUpperCase());
-					Console.WriteLine(ifade.MakeLowerCase());
-
-				int[] dizi = { 1, 4, 8, 9, 6 };
-				dizi.SortArray();
-				dizi.EkranaYazdir();
-
-				int sayi = 10;
-				Console.WriteLine(sayi.IsEvenNumber());
-				Console.WriteLine(ifade.GetFirstCharecter());
-			}
-		}
-	}
-	public class Islemler
-	{
-		public int Expo(int sayi, int us)
-		{
-			if (us < 2)
-			{
-				return sayi;
-			}
-			return Expo(sayi, us - 1) * sayi;
-		}
-		//Expo(3,4)
-		//Expo(3,3) * 3
-		//Expo(3,2) * 3 * 3
-		//Expo(3,1) * 3 * 3 * 3
-		//3*3*3*3 = 3^4 
-	}
-	public static class Extension
-	{
-		public static bool CheckSpaces(this string param)
-		{
-			return param.Contains(" ");
-		}
-
-		public static string RemoveWhiteSpaces(this string param)
-		{
-			string[] dizi = param.Split(" ");
-			return string.Join("*", dizi);
-		}
-		public static string MakeUpperCase(this string param)
-		{
-			return param.ToUpper();
-		}
-		public static string MakeLowerCase(this string param)
-		{
-			return param.ToUpper();
-		}
-		public static int[] SortArray(this int[] param)
-		{
-			Array.Sort(param);
-			return param;
-		}
-		public static void EkranaYazdir(this int[] param)
-		{
-			foreach (var item in param)
-			{
-				Console.WriteLine(item);
-			}
-		}
-		public static bool IsEvenNumber(this int param)
-		{
-			return param % 2 == 0;
-		}
-		public static string GetFirstCharecter(this string param)
-		{
-			return param.Substring(0,1);
-		}
 }
