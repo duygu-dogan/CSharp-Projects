@@ -1,0 +1,15 @@
+C:\Users\duygu\C#-Course\Csharp-Projeler\Generic Koleksiyonlar ve List\bin\Debug\net7.0\Generic Koleksiyonlar ve List.exe
+C:\Users\duygu\C#-Course\Csharp-Projeler\Generic Koleksiyonlar ve List\bin\Debug\net7.0\Generic Koleksiyonlar ve List.deps.json
+C:\Users\duygu\C#-Course\Csharp-Projeler\Generic Koleksiyonlar ve List\bin\Debug\net7.0\Generic Koleksiyonlar ve List.runtimeconfig.json
+C:\Users\duygu\C#-Course\Csharp-Projeler\Generic Koleksiyonlar ve List\bin\Debug\net7.0\Generic Koleksiyonlar ve List.dll
+C:\Users\duygu\C#-Course\Csharp-Projeler\Generic Koleksiyonlar ve List\bin\Debug\net7.0\Generic Koleksiyonlar ve List.pdb
+C:\Users\duygu\C#-Course\Csharp-Projeler\Generic Koleksiyonlar ve List\obj\Debug\net7.0\Generic Koleksiyonlar ve List.csproj.AssemblyReference.cache
+C:\Users\duygu\C#-Course\Csharp-Projeler\Generic Koleksiyonlar ve List\obj\Debug\net7.0\Generic Koleksiyonlar ve List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duygu\C#-Course\Csharp-Projeler\Generic Koleksiyonlar ve List\obj\Debug\net7.0\Generic Koleksiyonlar ve List.AssemblyInfoInputs.cache
+C:\Users\duygu\C#-Course\Csharp-Projeler\Generic Koleksiyonlar ve List\obj\Debug\net7.0\Generic Koleksiyonlar ve List.AssemblyInfo.cs
+C:\Users\duygu\C#-Course\Csharp-Projeler\Generic Koleksiyonlar ve List\obj\Debug\net7.0\Generic Koleksiyonlar ve List.csproj.CoreCompileInputs.cache
+C:\Users\duygu\C#-Course\Csharp-Projeler\Generic Koleksiyonlar ve List\obj\Debug\net7.0\Generic Koleksiyonlar ve List.dll
+C:\Users\duygu\C#-Course\Csharp-Projeler\Generic Koleksiyonlar ve List\obj\Debug\net7.0\refint\Generic Koleksiyonlar ve List.dll
+C:\Users\duygu\C#-Course\Csharp-Projeler\Generic Koleksiyonlar ve List\obj\Debug\net7.0\Generic Koleksiyonlar ve List.pdb
+C:\Users\duygu\C#-Course\Csharp-Projeler\Generic Koleksiyonlar ve List\obj\Debug\net7.0\Generic Koleksiyonlar ve List.genruntimeconfig.cache
+C:\Users\duygu\C#-Course\Csharp-Projeler\Generic Koleksiyonlar ve List\obj\Debug\net7.0\ref\Generic Koleksiyonlar ve List.dll
